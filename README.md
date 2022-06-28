@@ -2,7 +2,7 @@
 
 - 💻 web / mobile
 - ✍ JavaScript
-- 🎓 Bachelor: Business Administration
+- 🎓 Bachelor: Business Administration, starting Computer Science
 - 🌱 Studying: React, React Native, Typescript, Node.js, SQL and Infra-structure
 - 📢 Personality: The Debater (ENTP-A)
 - 😄 Pronouns: he/his
