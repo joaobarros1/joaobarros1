@@ -1,12 +1,9 @@
-## Front-end Developer
+## Jr Full-stack Developer
 
 - 💻 web / mobile
 - ✍ JavaScript
-- 🎓 Bachelor: Business Administration, starting Computer Science
-- 🌱 Studying: React, React Native, Typescript, Node.js, SQL and Infra-structure
-- 📢 Personality: The Debater (ENTP-A)
-- 😄 Pronouns: he/his
-
+- 🎓 Bachelor: Business Administration and studying Computer Science
+- 🌱 Studying: C#, React, React Native, Node.js, SQL, NoSQL and Infra-structure
 
 <div>
   <a href="https://github.com/joaocorreia92"/>
