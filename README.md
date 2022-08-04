@@ -1,4 +1,4 @@
-## Jr Full-stack Developer
+## Frontend Developer
 
 - 💻 web / mobile
 - ✍ JavaScript
