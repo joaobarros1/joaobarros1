@@ -1,9 +1,9 @@
 ## Frontend Developer
 
-- 💻 web / mobile
+- 💻 web
 - ✍ JavaScript
-- 🎓 Bachelor: Business Administration and studying Computer Science
-- 🌱 Studying: C#, React, React Native, Node.js, SQL, NoSQL and Infra-structure
+- 🎓 Computer Science
+- 🌱 React, React Native, Node.js, SQL, NoSQL and Infra-structure
 
 <div>
   <a href="https://github.com/joaocorreia1"/>
