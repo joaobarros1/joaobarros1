@@ -3,7 +3,6 @@
 - 💻 web
 - ✍ JavaScript
 - 🎓 Computer Science
-- 🌱 React, React Native, Node.js, SQL, NoSQL and Infra-structure
 
 <div>
   <a href="https://github.com/joaocorreia1"/>
