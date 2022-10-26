@@ -1,7 +1,11 @@
 ## Frontend Developer
 
 - 💻 web
-- ✍ JavaScript | React
+- ✍ JavaScript | React (frontend)
+- 🌱 Node | Java (backend)
+
+Hello everyone, wellcome to my github profile!
+I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript in bothsides, front and back. Now I have some experience working with React, and I am looking foward to develop my programming abilities knowing the backend part of the applications, for that I am studing Java Spring Boot and MySQL.
 
 <div>
   <a href="https://github.com/joaocorreia1"/>
