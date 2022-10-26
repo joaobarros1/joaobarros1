@@ -1,6 +1,6 @@
 ## Frontend Developer
 
-- 💻 web
+- 💻 web software
 - ✍ JavaScript | React (frontend)
 - 🌱 Node | Java | SQL (backend)
 
