@@ -1,8 +1,7 @@
 ## Frontend Developer
 
 - 💻 web
-- ✍ JavaScript
-- 🎓 Computer Science
+- ✍ JavaScript | React
 
 <div>
   <a href="https://github.com/joaocorreia1"/>
