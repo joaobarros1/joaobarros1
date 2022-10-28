@@ -2,10 +2,10 @@
 
 - 💻 web software
 - ✍ JavaScript | React (frontend)
-- 🌱 Node | Java | SQL (backend)
+- 🌱 Node (backend)
 
 Hello everyone, wellcome to my github profile!
-I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript in bothsides, front and back. Now I have some experience working with React, and I am looking foward to develop my programming abilities knowing the backend part of the applications, for that I am studing Java Spring Boot and MySQL.
+I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript in bothsides, front and back. Now I have some experience working with React, and I am looking foward to develop my programming abilities knowing the backend part of the applications, for that I am back studing Node.js and software architecture.
 
 <div>
   <a href="https://github.com/joaocorreia1" />
@@ -18,8 +18,7 @@ I am a brazilian frontend developer passionate about tech. Easily building web s
   <img align="center" alt="React" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="nojejs" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />          
-  <img align="center" alt="Java" height="30" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="nojejs" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="MySQL" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="AWS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />     
 </div>
