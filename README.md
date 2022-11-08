@@ -1,8 +1,8 @@
 ## Frontend Developer
 
 - 💻 web software
-- ✍ Javascript | React (frontend)
-- 🌱 Typescript | Node (backend)
+- ✍ Javascript | React
+- 🌱 Typescript | Node | Next
 
 Hello everyone, wellcome to my github profile!
 I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript. Now I have some experience working with React, I am studing backend Node.js with Typescript, software architecture and clean code concepts.
