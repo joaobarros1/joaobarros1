@@ -1,4 +1,4 @@
-## Frontend Developer
+## Front-end Developer
 
 - 💻 web software
 - ✍ Javascript | React
