@@ -2,7 +2,7 @@
 
 - 💻 web software
 - ✍ Javascript | React
-- 🌱 Typescript | Node | SQL | Next
+- 🌱 Typescript | Node | SQL | Next | Vue
 
 Hello everyone, wellcome to my github profile!
 I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript. Now I have some experience working with React, I am studing backend Node.js with Typescript, software architecture and clean code concepts.
