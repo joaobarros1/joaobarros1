@@ -2,7 +2,8 @@
 
 - 💻 web software
 - ✍ Javascript | React
-- 🌱 Typescript | Node | SQL | Next | Vue
+- 🌱 Typescript | Node | SQL
+- 🎓 Information Systems
 
 Hello everyone, wellcome to my github profile!
 I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript. Now I have some experience working with React, I am studing backend Node.js with Typescript, software architecture and clean code concepts. As well I am coursing Information Systems for second dregree, first one was Business Administration.
@@ -19,7 +20,5 @@ I am a brazilian frontend developer passionate about tech. Easily building web s
   <img align="center" alt="HTML" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="nojejs" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Next.js" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />          
-  <img align="center" alt="Next.js" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />          
+  <img align="center" alt="MySQL" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
 </div>
