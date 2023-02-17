@@ -2,7 +2,7 @@
 
 - 💻 web software
 - ✍ Javascript | Typescript | React | CSS | HTML | Sass | Node.js | SQL | NoSQL
-- 🎓 Information Systems
+- 🎓 Information Systems | Business Administration
 
 Hello everyone, wellcome to my github profile!
 I am a brazilian frontend developer passionate about tech. Easily building web softwares using javascript. Now I have some experience working with React, I am studing backend Node.js with Typescript, software architecture and clean code concepts. As well I am coursing Information Systems for second dregree, first one was Business Administration.
