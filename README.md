@@ -8,11 +8,11 @@
 
 Hello everyone, welcome to my linkedin profile! I'm a Brazilian frontend developer passionate about technology. I easily build web software using javascript. Now I have some experience working with React, I'm studying Node.js backend with Typescript, software architecture and clean code concepts. I am also studying Information Systems in college.
 
-<!-- <div>
+<div>
   <a href="https://github.com/joaocorreia1" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaocorreia1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"   />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocorreia1&layout=compact&langs_count=7&theme=tokyonight" />
-</div> -->
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="typescript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
