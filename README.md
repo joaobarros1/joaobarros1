@@ -1,7 +1,9 @@
 ## Frontend Developer
 
 - 💻 web software
-- ✍ Javascript | Typescript | React | HTML | CSS | Sass | Node.js | SQL | NoSQL
+- ✍️ Javascript | Typescript
+- 🖥️ React | Next | HTML5 | CSS3 | Sass 
+- 🛠️ Node | Express | SQL | NoSQL
 - 🎓 Information Systems | Business Administration
 
 Hello everyone, wellcome to my github profile!
