@@ -1,9 +1,9 @@
-## Frontend Developer
+## Javascript Developer
 
 - 💻 web software
 - ✍️ Javascript | Typescript
-- 🖥️ React | Next | HTML5 | CSS3 | Sass 
-- 🛠️ Node | Express | SQL | NoSQL
+- 🖥️ React | Next.js | HTML5 | CSS3 | Sass 
+- 🛠️ Node.js | Express.js | SQL | NoSQL
 - 🎓 Information Systems | Business Administration
 
 Hello everyone, welcome to my github profile! I'm a Brazilian frontend developer passionate about technology. I easily build web software using javascript. Now I have some experience working with React, I'm studying Node.js backend with Typescript and software architecture. I am also studying Information Systems in college.
