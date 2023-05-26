@@ -6,7 +6,7 @@
 - 🛠️ Node.js | Express.js | SQL | NoSQL
 - 🎓 Information Systems
 
-Hello everyone, welcome to my github profile! I'm a Brazilian frontend developer passionate about technology. I easily build web software using modern javascript enviroment. Now I have two years of professional experience working with React, I'm studying Node.js backend and software architecture. I am also studying Information Systems in college.
+Hello everyone, welcome to my github profile! I'm a Brazilian developer passionate about tech. I can easily build web software using modern javascript enviroment. Now that I have some professional experience working as Frontend Developer, I'm studying Backend and software architecture and coursing Information Systems in college.
 
 <div>
   <a href="https://github.com/joaocorreia1" />
