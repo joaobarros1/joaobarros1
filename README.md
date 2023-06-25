@@ -2,7 +2,7 @@
 
 - 💻 web software
 - ✍️ Typescript | ES6+
-- 🖥️ React | Next.js | HTML5 | CSS3 | SCSS 
+- 🖥️ React | HTML5 | CSS3 | SCSS 
 - 🛠️ Node.js | Express.js | SQL | NoSQL
 - 🎓 Information Systems
 
@@ -16,8 +16,7 @@ Hello everyone, welcome to my github profile! I'm a Brazilian full-stack develop
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="typescript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="React" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="HTML" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />          
+  <img align="center" alt="React" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
   <img align="center" alt="HTML" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="nojejs" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
