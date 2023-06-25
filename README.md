@@ -1,7 +1,7 @@
 ## Javascript Developer
 
 - 💻 web software
-- ✍️ Typescript | ES6+
+- ✍️ Javascript ES6+ | Typescript
 - 🖥️ React | HTML5 | CSS3 | SCSS 
 - 🛠️ Node.js | Express.js | SQL | NoSQL
 - 🎓 Information Systems
