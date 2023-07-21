@@ -6,7 +6,7 @@
 - 🛠️ Node.js | Express.js | SQL | NoSQL
 - 🎓 Information Systems
 
-Hello everyone, welcome to my github profile! I'm a Brazilian full-stack developer passionate about tech who can easily build web software using modern javascript enviroment. Now that I have some professional experience working in the Front-end, I'm studying Back-end, software architecture and coursing Information Systems as my second college degree.
+Hello everyone, welcome to my github profile! I'm a Brazilian full-stack developer passionate about tech who can easily build web software using modern javascript enviroment. Now that I have some professional experience working in the Front-end, I'm focused on develop my backend knowledge coursing Information Systems as my second college degree.
 
 <div>
   <a href="https://github.com/joaocorreia1" />
