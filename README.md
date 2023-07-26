@@ -1,8 +1,7 @@
 ## Javascript Developer
 
-- 🌐 web software
 - 🖊️ Javascript ES6+ | Typescript
-- 💻 React | SCSS | Bootstrap | MUI | Styled Components
+- 🌐 React | SCSS | Bootstrap | MUI | Styled Components
 - 🛠️ Node.js | Express.js | SQL | NoSQL
 - 🎓 Information Systems
 
