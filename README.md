@@ -3,7 +3,7 @@
 - 🖊️ Javascript ES6+ | Typescript
 - 🌐 React | SCSS | Bootstrap | MUI | Styled Components
 - 🛠️ Node.js | Express.js | SQL | NoSQL
-- 🎓 Information Systems
+- 🎓 Systems Analysis and Development
 
 Hello everyone, welcome to my github profile! I'm a Brazilian developer passionate about tech who can easily build web software using modern javascript enviroment. Now that I have some professional experience working in the frontend, I'm focused on develop my backend knowledge by my own in internet and coursing Information Systems as my second college degree.
 
