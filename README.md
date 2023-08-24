@@ -1,4 +1,4 @@
-## Javascript Developer
+## Front-end Developer
 
 - 🖊️ Javascript ES6+ | Typescript
 - 🌐 React | SCSS | Bootstrap | MUI | Styled Components
