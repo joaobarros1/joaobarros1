@@ -1,11 +1,11 @@
 ## Front-end Developer
 
 - 🖊️ Javascript ES6+ | Typescript
-- 🌐 React | SCSS | Bootstrap | MUI | Styled Components
-- 🛠️ Node.js | Express.js | SQL | NoSQL
+- 🌐 React | Angular | Sass | Bootstrap | MUI | Styled Components
+- 🛠️ Node.js | Express.js | REST | SQL | NoSQL
 - 🎓 Systems Analysis and Development
 
-Hello everyone, welcome to my github profile! I'm a Brazilian developer passionate about tech who can easily build web software using modern javascript enviroment. Now that I have some professional experience working in the frontend, I'm focused on develop my backend knowledge by my own in internet and coursing Information Systems as my second college degree.
+Hello everyone, welcome to my github profile! I'm a Brazilian developer passionate about tech who can easily build web software using modern javascript enviroment. Now that I have some professional experience working in the frontend, I'm focused on develop my backend knowledge by my own in internet and coursing Systems Analysis and Development as my second college degree.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
