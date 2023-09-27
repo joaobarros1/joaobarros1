@@ -1,4 +1,4 @@
-## Front-end Developer
+## Software Engineer
 
 - 🖊️ Javascript ES6+ | Typescript
 - 🌐 React | Angular | Sass | Bootstrap | MUI | Styled Components
