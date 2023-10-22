@@ -1,9 +1,9 @@
 ***Software Engineer***
 
-- 🖊️ *Javascript ES6+ | Typescript*
-- 🌐 *React | Angular | Sass | Less | Bootstrap | MUI | Styled Components*
-- 🛠️ *Node | Express | Java | Quarkus | REST | SQL | NoSQL*
-- 🎓 *Systems Analysis and Development | Business Administration*
+- 🖊️ *Javascript ES6+ • Typescript*
+- 🌐 *React • Angular • Sass • Less • Bootstrap • MUI • Styled Components*
+- 🛠️ *Node • Express • Java • Quarkus • REST • SQL • NoSQL*
+- 🎓 *Systems Analysis and Development • Business Administration*
 
 *Hello everyone, welcome to my github profile! I'm a Brazilian developer passionate about tech who can easily build web software using modern javascript enviroment. Now that I have some professional experience working in the frontend, I'm focused on develop my backend knowledge by my own in internet and coursing Systems Analysis and Development as my second college degree.*
 
