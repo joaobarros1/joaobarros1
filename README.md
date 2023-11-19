@@ -1,7 +1,7 @@
 ***Software Engineer***
 
 - 🖊️ Javascript ES6+ • Typescript
-- 🌐 React • Sass • Less • Bootstrap • MUI • Styled Components
+- 🌐 React • Redux • Sass • Less • Bootstrap • MUI • Styled Components
 - 🛠️ Node.js • Express.js • REST API • SQL • NoSQL • Jest
 - 🎓 Systems Analysis and Development • Business Administration
 
