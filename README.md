@@ -1,9 +1,9 @@
 ***Software Engineer***
 
-- 🖊️ Javascript ES6+ • Typescript
-- 🌐 React • Redux • Sass • Less • Bootstrap • MUI • Styled Components
-- 🛠️ Node.js • Express.js • REST API • SQL • NoSQL • Jest
-- 🎓 Systems Analysis and Development • Business Administration
+🖊️ Javascript ES6+ | Typescript
+🌐 React | Redux | Sass | Less | Bootstrap | MUI | Styled Components
+🛠️ Node.js | Express.js | REST API | SQL | NoSQL | Jest
+🎓 Systems Analysis and Development | Business Administration
 
 *Hello everyone, welcome to my github profile! I'm a Brazilian developer passionate about tech who can build scalable web software using the modern javascript enviroment. Now that I have some professional experience working in the frontend, I'm focused on develop my backend knowledge by my own on internet and coursing Systems Analysis and Development as my second college degree.*
 
