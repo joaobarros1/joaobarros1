@@ -1,11 +1,6 @@
 ***Software Engineer***
 
-- 🖊️ Javascript ES6+ | Typescript
-- 🌐 React | Redux | Sass | Less | Styled Components
-- 🛠️ Node.js | Express.js | REST API | SQL | NoSQL | Jest
-- 🎓 Systems Analysis and Development | Business Administration
-
-*Hi there, welcome to my github profile! I'm a Brazilian programmer who enjoys building scalable, dynamic and responsive web software using modern javascript enviroment. I count with four years of professional experience as a Frontend Developer, always applying the best programming practices and clean code concepts. Nowadays I'm focused on developing my backend skills by my own through the internet and coursing Systems Analysis and Development as my second college degree.*
+*Hi there, welcome to my GitHub profile! I'm a Brazilian programmer who enjoys building scalable, dynamic, and responsive web software using modern javascript environment. I have four years of professional experience as a Frontend Developer, always applying the best programming practices and clean code concepts. I'm focused on developing my backend skills through the internet and coursing Systems Analysis and Development as my second college degree.*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
