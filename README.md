@@ -1,6 +1,6 @@
 ***Software Engineer***
 
-*Hi there, welcome to my GitHub profile! I'm a Brazilian programmer who enjoys building scalable, dynamic, and responsive web software using modern javascript environment. I have four years of professional experience as a Frontend Developer, always applying the best programming practices and clean code concepts. I'm focused on developing my backend skills through the internet and coursing Systems Analysis and Development as my second college degree.*
+*Hi there, welcome to my GitHub profile! I'm João, from São Paulo, Brazil. Programmer who enjoys building scalable, dynamic, and responsive web software using modern javascript environment.I have professional experience as Front-end Developer, but I  love the Back-end side as well. Always applying the best programming practices, clean code concepts, and SOLID principles.*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
