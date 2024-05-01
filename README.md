@@ -3,6 +3,7 @@
 *Hi there, welcome to my GitHub profile! I'm João, from São Paulo, Brazil. Programmer who enjoys building scalable, dynamic, and responsive web software using modern javascript environment. I have professional frontend experience but I love the backend side as well. Always applying the best programming practices, clean code concepts, and SOLID principles.*
 
 👨‍💻 Systems Analysis and Development
+
 👨‍🎓 Business Administration
 
 <div style="display: inline_block"><br>
