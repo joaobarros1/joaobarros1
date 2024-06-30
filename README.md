@@ -2,7 +2,7 @@
 
 *Hi there, welcome to my GitHub profile! I'm João, from São Paulo, Brazil. A programmer who enjoys building scalable, dynamic, and responsive web software using modern javascript environment. Always applying the best programming practices, clean code concepts, and SOLID principles.*
 
-👨‍💻 Systems Analysis and Development
+👨‍🎓 Systems Analysis and Development
 
 👨‍🎓 Business Administration
 
