@@ -1,7 +1,7 @@
 ***Web Developer***
 
-*Hi there, welcome to my GitHub profile! My name is João Pedro, and I am from Sao Paulo, Brazil. 
-Programming is what I like to do, I do this professionally and as a hobby as well. 
+*Hi there, welcome to my GitHub profile! My name is João Pedro, and I am from Sao Paulo, Brazil. <br/>
+Programming is what I like to do, I do this professionally and as a hobby as well. <br/>
 Nowadays, I am acting as a React developer for telecom e-commerce, always applying the best programming practices, clean code concepts, and SOLID principles.*
 
 👨‍🎓 Systems Analysis and Development
