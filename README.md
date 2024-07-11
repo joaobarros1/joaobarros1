@@ -1,6 +1,6 @@
 ***Web Developer***
 
-*Hi there, welcome to my GitHub profile! I'm João, from São Paulo, Brazil. A programmer who enjoys building scalable, dynamic, and responsive web software using modern javascript environment. Always applying the best programming practices, clean code concepts, and SOLID principles.*
+*Hi there, welcome to my GitHub profile! My name is João Pedro, and I am from São Paulo, Brazil. My passion is programming, I do this professionally and as a hobby. Nowadays, I am a React developer at an e-commerce. Always applying the best programming practices, clean code concepts, and SOLID principles.*
 
 👨‍🎓 Systems Analysis and Development
 
