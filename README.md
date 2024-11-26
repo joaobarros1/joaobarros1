@@ -1,12 +1,11 @@
-***Web Developer***
-
-*Hi there, welcome to my GitHub profile! My name is João Pedro, and I am from Sao Paulo, Brazil. <br/>
-Programming is what I like to do, I do this professionally and as a hobby as well. <br/>
-Nowadays, I am acting as a React developer for telecom e-commerce, always applying the best programming practices, clean code concepts, and SOLID principles.*
+*Hey, welcome to my GitHub profile! My name is João but you can call me Johnny if you want. <br/>
+I'm a brazilian guy from Sao Paolo, pationated about technology and games. <br/>
+I've been working as a React developer for five years, today at a telecom solutions company. <br/>
+Feel free to analyse my study codes and don't exitate to reach me out!*
 
 👨‍🎓 Systems Analysis and Development
 
-👨‍🎓 Business Administration
+👨‍🎓 Business Administration (2019)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
