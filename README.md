@@ -1,11 +1,10 @@
-*Hey, welcome to my GitHub profile! My name is João but you can call me Johnny if you want. <br/>
-I'm a brazilian guy from Sao Paolo, pationated about technology and games. <br/>
-I've been working as a React developer for four years, and still today at a telecommunications solutions company. <br/>
-Feel free to analyse my study codes and don't exitate to reach me out!*
+*Hey, welcome to my GitHub profile! My name is João, <br/>
+a brazilian guy from Sao Paulo, who loves to solve problems. <br/>
+I've been working as a React developer for four years, and still today in telecom sector. <br/>
+Please, take a look on my projects and don't exitate to reach me out!*
 
 👨‍🎓 Systems Analysis and Development
-
-👨‍🎓 Business Administration (2019)
+👨‍🎓 Business Administration
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
