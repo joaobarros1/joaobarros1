@@ -3,7 +3,7 @@ a brazilian guy from Sao Paulo, who loves problem solving. <br/>
 I've been working as a React developer for four years, and still today in telecom sector. <br/>
 Please, take a look on my projects and don't exitate to reach me out!*
 
-👨‍🎓 Systems Analysis and Development
+👨‍🎓 Systems Analysis and Development <br/>
 👨‍🎓 Business Administration
 
 <div style="display: inline_block"><br>
