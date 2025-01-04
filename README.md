@@ -1,5 +1,5 @@
 Hey, welcome to my GitHub profile! <br/>
-My name is João, from Sao Paulo, a gamer guy who works with Javascript <br/>
+My name is João, from Sao Paulo, a gamer guy who works with Javascript. <br/>
 I've been working as a React developer for four years, and still today in telco market. <br/>
 Please, take a look on my projects and don't exitate to reach me out!
 
