@@ -1,6 +1,6 @@
 Hey, welcome to my GitHub profile! <br/>
-My name is João, from São Paulo, a gamer guy who works with Javascript. <br/>
-I've been working as a React developer for four years, and still today in telecom sector. <br/>
+My name is João, from Sao Paulo/Brazil, and I am a Javascript Developer. <br/>
+I've been working as a Frontend Developer for four years using React with Typescript, and still today in telecom sector. <br/>
 Please, take a look on my projects and don't exitate to reach me out!
 
 👨‍🎓 Systems Analysis and Development <br/>
