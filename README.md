@@ -1,7 +1,7 @@
 Hey, welcome to my GitHub profile! <br/>
-My name is João Pedro, from Sao Paulo/Brazil. <br/>
-I've been working as a Frontend Developer for four years using React and Typescript, and still today in telecom sector. <br/>
-Please, take a look on my projects and don't exitate to reach me out!
+My name is João Pedro, from Sao Paulo/Brazil, and I'm a Software Developer. <br/>
+I've been working as a Frontend Developer for four years using React with Typescript, and still today in telecom sector. <br/>
+Take a look on my projects and don't exitate to reach me out!
 
 👨‍🎓 Systems Analysis and Development <br/>
 👨‍🎓 Business Administration
