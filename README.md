@@ -1,5 +1,5 @@
-👨‍🎓 Systems Analysis and Development <br/>
-👨‍🎓 Business Administration
+🎓 System Analysis and Development <br/>
+🎓 Business Administration
 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
