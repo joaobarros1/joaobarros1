@@ -1,4 +1,4 @@
-🎓 System Analysis and Development <br/>
+🎓 Systems Analysis and Development <br/>
 🎓 Business Administration
 
 <div style="display: inline_block"><br>
