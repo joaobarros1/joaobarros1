@@ -1,9 +1,12 @@
+Hi, I’m João Barros from São Paulo, Brazil, a full-stack developer with solid experience in telecommunications systems (OSS/BSS).
+I currently work at Netcracker Technology, building enterprise telecom solutions.
+I’ve worked on a range of products, including CPQ, CSRD, e-commerce (web/mobile) and NDO, mostly with Angular, React and TypeScript.
+
 🎓 Distributed Software Architecture <br/>
 🎓 Systems Analysis and Development <br/>
 🎓 Business Administration
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="typescript" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Angular" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
